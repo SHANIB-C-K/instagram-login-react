@@ -4,6 +4,6 @@
 
 [ Click here ](https://instagramloginreact.netlify.app/)
 #### Desktop 
-![Screenshot](https://mallucampaign.in/images/img_1703428181.jpg)
+<a href="https://instagramloginreact.netlify.app/" >![Screenshot](https://mallucampaign.in/images/img_1703428181.jpg) </a>
 #### Mobile phone
-![Screenshot](https://mallucampaign.in/images/img_1703430844.jpg)
+<a href="https://instagramloginreact.netlify.app/" >![Screenshot](https://mallucampaign.in/images/img_1703430844.jpg) </a>
